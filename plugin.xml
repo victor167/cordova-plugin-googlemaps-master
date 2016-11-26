@@ -71,7 +71,7 @@
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <meta-data
               android:name="com.google.android.maps.v2.API_KEY"
-              android:value="AIzaSyC_Qt90zF0YeJGtNmsoCHZbhIuw2HO_9Xk" />
+              android:value="AIzaSyCuqkgpLObHb_kwkkOJXqoTpZXceThYsog" />
             <!-- Google Play Services SDK -->
             <meta-data android:name="com.google.android.gms.version"
                        android:value="@integer/google_play_services_version" />
